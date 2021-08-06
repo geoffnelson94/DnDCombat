@@ -1,0 +1,61 @@
+Concept Summary (Open to ideas)
+  Overall:
+    - 3D platformer
+    - Light RPG elements
+  Description:
+    - A world where there is a known gauntlet challenge of 'The Tower'.
+      'The Tower'
+          - consists of 'zones'
+          - Zones begin easy with little to no environment hazards. As the player reaches new zones, different vertically oriented environments are revealed. 
+            Ex. Grassland/forest/snow mountain/firey circle
+          - Starting zone will require no additional movement skills/magic/tools from the starting mechanic
+          - Zones will have multiple vertical paths leading to the next zone
+          - Depending on what path the player takes, new skills/magic/tools will be unlocked.
+   
+  Player:
+    - Advance up 'The Tower'
+    - Learn of the mysterious nature of 'The Tower'
+    
+Mechanics:
+  
+  Base Movement System:
+    - Walk
+    - Run/Sprint
+    -climbing
+      - Mantle
+      - Hang on edges
+    - Jump
+    - ...
+  Advanced Movement Skill System:
+    - ...
+  
+  Skill System:
+  - Player will have strength/constitution/dexterity/intelligence skills
+  - Skill will be upgradeable on a point system. Once reaching a certain points in a skill, new 'advanced movement skills' are available
+    - Strength: 
+      - Distance of jump
+      - How fast can you run
+      - ...
+    - Constitution:
+      - How long you can hang
+      - How much fall damage you can sustain
+      - ...
+    - Dexterity
+      - How small a surface you can stand on
+      - How much momentum you can generate while hanging
+      - ...
+    - Intelligence
+      - Related to magic? Not sure on this yet.
+      
+  Tools:
+    Are they findable? shop? unlock per zone?
+  Magic:
+    Is there magic in game?
+
+Story:
+  
+
+Aesthetics:
+
+Technology:
+- Multi-player? No.
